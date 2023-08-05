@@ -2,6 +2,7 @@
 ### Overview
 This project, developed in Android Studio 2022.2.1, facilitates interaction with audio and video on smart glasses. While the webcam is accessed via HTTP requests, the audio transmission uses the MQTT protocol with the EMQX server. The application subscribes to the ESP32_RECVER topic and publishes to the ESP32_SENDER. Additionally, user login information is stored securely using an SQLite database.
 
+
 ### Features
 •	Login function: The user must register first, the username and password will be stored in the database, and then can be used to complete the login.
 
@@ -18,6 +19,7 @@ Android Studio 2022.2.1 or later.
 Smart Glasses with webcam support.
 
 EMQX Server instance (for MQTT communication).
+
 
 ### Setup
 **1. Clone the repository:**
@@ -36,6 +38,7 @@ No additional setup is required. The app handles the creation and management of 
 **5. Run the Application:**
 Connect a suitable Android device or emulator, then build and run the application.
 
+
 ### Usage
 **1. Login/Signup:**
 Users need to either log in or sign up. The information are stored in the SQLite database.
@@ -46,10 +49,12 @@ Initiate the webcam on the smart glasses by sending an HTTP request from the app
 **3. Audio Communication:**
 The app captures audio, processes it, and then sends the audio data via MQTT to the ESP32_SENDER topic. It also listens to incoming audio data from the ESP32_RECVER topic.
 
+
 ### Troubleshooting
 MQTT Connection Issues: Ensure the EMQX server is running and accessible. Check network configurations and server logs for more details.
 Audio/Video Lag: Check the network quality. Also, ensure the smart glasses have sufficient resources for smooth operation.
 Database Errors: Ensure you have the necessary permissions for reading/writing data. Refer to logs for specific error messages.
+
 
 ### Contributions
 Contributions to this project are welcome! Please raise an issue or submit a pull request.
