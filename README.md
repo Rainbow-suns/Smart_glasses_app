@@ -16,6 +16,8 @@ This project, developed in Android Studio 2022.2.1, facilitates interaction with
 ### Prerequisites
 Android Studio 2022.2.1 or later.
 
+Device/simulator Android 5.1 and above
+
 Smart Glasses with webcam support.
 
 EMQX Server instance (for MQTT communication).
