@@ -54,7 +54,9 @@ The app captures audio, processes it, and then sends the audio data via MQTT to 
 
 ### Troubleshooting
 MQTT Connection Issues: Ensure the EMQX server is running and accessible. Check network configurations and server logs for more details.
+
 Audio/Video Lag: Check the network quality. Also, ensure the smart glasses have sufficient resources for smooth operation.
+
 Database Errors: Ensure you have the necessary permissions for reading/writing data. Refer to logs for specific error messages.
 
 
