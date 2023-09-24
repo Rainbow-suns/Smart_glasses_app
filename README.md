@@ -67,7 +67,7 @@ Contributions to this project are welcome! Please raise an issue or submit a pul
 Login interface:
 <!-- ![image](sampledata/image.png) -->
 <div align="center">
-  <img src="./app/sampledata/登录.jpg" height="300">
+  <img src="./app/sampledata/登录.jpg" height="500">
 </div>
 <p align="center">
   Figure 1. Login screen - Login failed.
@@ -76,7 +76,7 @@ Login interface:
 Register interface:
 <!-- ![image](sampledata/image.png) -->
 <div align="center">
-  <img src="./app/sampledata/注册.jpg" height="300">
+  <img src="./app/sampledata/注册.jpg" height="500">
 </div>
 <p align="center">
   Figure 2. The registration screen, where users register their username and password..
@@ -85,7 +85,7 @@ Register interface:
 choice interface:
 <!-- ![image](sampledata/image.png) -->
 <div align="center">
-  <img src="./app/sampledata/选择.jpg" height="300">
+  <img src="./app/sampledata/选择.jpg" height="500">
 </div>
 <p align="center">
   Figure 3. Users can choose to enable audio and video connections or only audio connections.
@@ -94,7 +94,7 @@ choice interface:
 Register interface:
 <!-- ![image](sampledata/image.png) -->
 <div align="center">
-  <img src="./app/sampledata/视频.png" height="300">
+  <img src="./app/sampledata/视频.png" height="500">
 </div>
 <p align="center">
   Figure 4. Users can choose to only answer or talk， camera always open.
@@ -103,7 +103,7 @@ Register interface:
 Register interface:
 <!-- ![image](sampledata/image.png) -->
 <div align="center">
-  <img src="./app/sampledata/语音.jpg" height="300">
+  <img src="./app/sampledata/语音.jpg" height="500">
 </div>
 <p align="center">
   Figure 5. Users can choose to only answer or talk.
@@ -112,7 +112,7 @@ Register interface:
 Register interface:
 <!-- ![image](sampledata/image.png) -->
 <div align="center">
-  <img src="./app/sampledata/服务器.png" height="300">
+  <img src="./app/sampledata/服务器.png" height="500">
 </div>
 <p align="center">
   Figure 6. Server.
