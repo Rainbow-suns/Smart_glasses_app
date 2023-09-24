@@ -62,3 +62,58 @@ Database Errors: Ensure you have the necessary permissions for reading/writing d
 
 ### Contributions
 Contributions to this project are welcome! Please raise an issue or submit a pull request.
+
+### Demonstration
+Login interface:
+<!-- ![image](sampledata/image.png) -->
+<div align="center">
+  <img src="./app/sampledata/登录.jpg" height="300">
+</div>
+<p align="center">
+  Figure 1. Login screen - Login failed.
+</p>
+
+Register interface:
+<!-- ![image](sampledata/image.png) -->
+<div align="center">
+  <img src="./app/sampledata/注册.jpg" height="300">
+</div>
+<p align="center">
+  Figure 2. The registration screen, where users register their username and password..
+</p>
+
+choice interface:
+<!-- ![image](sampledata/image.png) -->
+<div align="center">
+  <img src="./app/sampledata/选择.jpg" height="300">
+</div>
+<p align="center">
+  Figure 3. Users can choose to enable audio and video connections or only audio connections.
+</p>
+
+Register interface:
+<!-- ![image](sampledata/image.png) -->
+<div align="center">
+  <img src="./app/sampledata/视频.jpg" height="300">
+</div>
+<p align="center">
+  Figure 4. A Visualization Example of Object Detection for Autonomous Driving.
+</p>
+
+Register interface:
+<!-- ![image](sampledata/image.png) -->
+<div align="center">
+  <img src="./app/sampledata/音频.jpg" height="300">
+</div>
+<p align="center">
+  Figure 5. Users can choose to only answer or talk.
+</p>
+
+Register interface:
+<!-- ![image](sampledata/image.png) -->
+<div align="center">
+  <img src="./app/sampledata/服务器.jpg" height="300">
+</div>
+<p align="center">
+  Figure 6. Users can choose to only answer or talk， camera always open.
+</p>

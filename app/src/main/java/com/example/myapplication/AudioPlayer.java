@@ -195,8 +195,7 @@ public class AudioPlayer {
     }
 
     private byte[] applyAudioProcessing(byte[] buffer, int length) {
-        // Apply your audio processing techniques here
-        // Example: Perform volume normalization
+        // Perform volume normalization
         double maxAmplitude = 0;
         for (int i = 0; i < length; i++) {
             byte sample = buffer[i];

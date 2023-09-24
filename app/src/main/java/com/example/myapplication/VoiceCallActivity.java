@@ -34,6 +34,7 @@ public class VoiceCallActivity extends AppCompatActivity {
                         audioPlayer.stop();
                         audioPlayer = null;
                         buttonMicrophone.setVisibility(View.INVISIBLE);
+                        buttonMicrophone.setText("Turn on the microphone");
                         buttonListener.setText("Start");
                     }
                 } catch (MqttException e) {
@@ -42,20 +43,6 @@ public class VoiceCallActivity extends AppCompatActivity {
             }
         });
 
-//        button.setOnClickListener(v -> {
-//            try {
-//                if (audioPlayer == null) {
-//                    audioPlayer = new AudioPlayer(getApplicationContext());
-//                    button.setText("Stop");
-//                } else {
-//                    audioPlayer.stop();
-//                    audioPlayer = null;
-//                    button.setText("Start");
-//                }
-//            } catch (MqttException e) {
-//                e.printStackTrace();
-//            }
-//        });
 
         buttonMicrophone.setOnClickListener(new View.OnClickListener() {
             @Override
