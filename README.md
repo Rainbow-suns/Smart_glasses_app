@@ -94,16 +94,16 @@ choice interface:
 Register interface:
 <!-- ![image](sampledata/image.png) -->
 <div align="center">
-  <img src="./app/sampledata/视频.jpg" height="300">
+  <img src="./app/sampledata/视频.png" height="300">
 </div>
 <p align="center">
-  Figure 4. A Visualization Example of Object Detection for Autonomous Driving.
+  Figure 4. Users can choose to only answer or talk， camera always open.
 </p>
 
 Register interface:
 <!-- ![image](sampledata/image.png) -->
 <div align="center">
-  <img src="./app/sampledata/音频.jpg" height="300">
+  <img src="./app/sampledata/语音.jpg" height="300">
 </div>
 <p align="center">
   Figure 5. Users can choose to only answer or talk.
@@ -112,8 +112,8 @@ Register interface:
 Register interface:
 <!-- ![image](sampledata/image.png) -->
 <div align="center">
-  <img src="./app/sampledata/服务器.jpg" height="300">
+  <img src="./app/sampledata/服务器.png" height="300">
 </div>
 <p align="center">
-  Figure 6. Users can choose to only answer or talk， camera always open.
+  Figure 6. Server.
 </p>
