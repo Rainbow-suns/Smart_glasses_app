@@ -91,7 +91,7 @@ choice interface:
   Figure 3. Users can choose to enable audio and video connections or only audio connections.
 </p>
 
-Register interface:
+Video interface:
 <!-- ![image](sampledata/image.png) -->
 <div align="center">
   <img src="./app/sampledata/视频.png" height="500">
@@ -100,7 +100,7 @@ Register interface:
   Figure 4. Users can choose to only answer or talk， camera always open.
 </p>
 
-Register interface:
+Audio interface:
 <!-- ![image](sampledata/image.png) -->
 <div align="center">
   <img src="./app/sampledata/语音.jpg" height="500">
@@ -109,7 +109,7 @@ Register interface:
   Figure 5. Users can choose to only answer or talk.
 </p>
 
-Register interface:
+Server interface:
 <!-- ![image](sampledata/image.png) -->
 <div align="center">
   <img src="./app/sampledata/服务器.png" height="500">
